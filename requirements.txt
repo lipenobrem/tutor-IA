@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+python-dotenv
+
+cd "C:\Users\Lipen\Documents\Projeto de extensão - 2 semestre"
